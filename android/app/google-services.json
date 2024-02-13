@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184846160310",
+    "project_id": "celebrare-internship",
+    "storage_bucket": "celebrare-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184846160310:android:b21c25e134624716387117",
+        "android_client_info": {
+          "package_name": "com.example.celebrare_temporary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-P4EpkpuHn6QY_EjcvlF0_RtrevTsZtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
